@@ -4,7 +4,7 @@ export const data=[
    jname:"SILVER CHARM",
    images: [ "https://g6.sunlight.net/media/i/400/91/products/dffb3b7d77debcabe6441bb00995084af00535c6.jpg",
    "https://media.thejewellershop.com/images/products/1000/DE0172_02.jpg",
-   "https://media.thejewellershop.com/images/products/Staging1000/SE0574_01.jpg"],
+   "https://media.thejewellershop.com/images/products/1000/DE0172_M.jpg"],
 
    description:"Earrings Sterling Silver Freshwater Pearl SE0573",
    price: "26.95 $" 
@@ -25,9 +25,9 @@ export const data=[
  {
     id:3,
     jname:"BRILLADIA",
-    images:[ "https://media.thejewellershop.com/images/products/Staging1000/DE0050_01.jpg",
-            "https://media.thejewellershop.com/images/products/Staging1000/DE0050_02.jpg",
-            "https://media.thejewellershop.com/images/products/Staging1000/DE0050_M.jpg"
+    images:[ "https://media.thejewellershop.com/images/products/1000/NE0003-14KY_01.jpg",
+            "https://media.thejewellershop.com/images/products/1000/NE0003-14KY_02.jpg",
+            "https://media.thejewellershop.com/images/products/1000/NE0003-14KY_M.jpg"
            ],
     description:"Earrings Red Hearts Sterling Silver With Zirconia SE0879",
     price: "1944.95 $"  
