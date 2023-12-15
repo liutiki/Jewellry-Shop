@@ -13,9 +13,9 @@ export const data=[
 {
     id:2,
     jname:"RED HART",
-    images:[ "https://media.thejewellershop.com/images/products/Staging1000/SE0879_01.jpg",
-            "https://media.thejewellershop.com/images/products/Staging1000/SE0879_02.jpg",
-            "https://media.thejewellershop.com/images/products/Staging1000/SE0879_M.jpg"
+    images:[ "https://media.thejewellershop.com/images/products/1000/DE0045_01.jpg",
+            "https://media.thejewellershop.com/images/products/1000/DE0045_02.jpg",
+            "https://media.thejewellershop.com/images/products/1000/DE0045_M.jpg"
            ],
 
     description:"Earrings Red Hearts Sterling Silver With Zirconia SE0879",
@@ -25,9 +25,9 @@ export const data=[
  {
     id:3,
     jname:"BRILLADIA",
-    images:[ "https://media.thejewellershop.com/images/products/1000/NE0003-14KY_01.jpg",
-            "https://media.thejewellershop.com/images/products/1000/NE0003-14KY_02.jpg",
-            "https://media.thejewellershop.com/images/products/1000/NE0003-14KY_M.jpg"
+    images:[ "https://media.thejewellershop.com/images/products/1000/DE0085_02.jpg",
+            "https://media.thejewellershop.com/images/products/1000/DE0085_02.jpg",
+            "https://media.thejewellershop.com/images/products/1000/DE0085_01.jpg"
            ],
     description:"Earrings Red Hearts Sterling Silver With Zirconia SE0879",
     price: "1944.95 $"  
@@ -36,9 +36,9 @@ export const data=[
  {
    id:4,
    jname:"UNIQUE",
-   images: ["https://media.thejewellershop.com/images/products/Staging1000/SE0868_01.jpg",
-           "https://media.thejewellershop.com/images/products/Staging1000/SE0869_02.jpg",
-           "https://media.thejewellershop.com/images/products/Staging1000/SE0869_M.jpg"
+   images: ["https://media.thejewellershop.com/images/products/1000/DE0065_01.jpg",
+           "https://media.thejewellershop.com/images/products/1000/DE0065_02.jpg",
+           "https://media.thejewellershop.com/images/products/1000/DE0065_M.jpg"
             ],
    description:"Hoops Star Pendant Sterling Sterling Silver Gold Plated Zirconia SE0868",
    price: "39.90 $"  
@@ -47,9 +47,9 @@ export const data=[
 {
    id:5,
    jname:"LEONARDO",
-   images: ["https://media.thejewellershop.com/images/products/Staging1000/GE0339_01.jpg",
-            "https://media.thejewellershop.com/images/products/Staging1000/GE0339_02.jpg",
-            "https://media.thejewellershop.com/images/products/Staging1000/GE0339_M.jpg"
+   images: ["https://media.thejewellershop.com/images/products/1000/DE0242_01.jpg",
+            "https://media.thejewellershop.com/images/products/1000/DE0242_02.jpg",
+            "https://media.thejewellershop.com/images/products/1000/DE0242_M.jpg"
    ],
    description:"Sofia Ciao Earrings For Women In Stainless Steel, Ip Gold 021653",
    price: "34.90 $"  
