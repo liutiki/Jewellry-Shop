@@ -2,8 +2,8 @@ export const data=[
 {
    id:1,
    jname:"SILVER CHARM",
-   images: [ "https://media.thejewellershop.com/images/products/Staging1000/SE0573_01.jpg",
-   "https://media.thejewellershop.com/images/products/Staging1000/SE0573_M.jpg",
+   images: [ "https://media.thejewellershop.com/images/products/1000/DE0172_01.jpg",
+   "https://media.thejewellershop.com/images/products/1000/DE0172_02.jpg",
    "https://media.thejewellershop.com/images/products/Staging1000/SE0574_01.jpg"],
 
    description:"Earrings Sterling Silver Freshwater Pearl SE0573",
