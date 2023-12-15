@@ -2,7 +2,7 @@ export const data=[
 {
    id:1,
    jname:"SILVER CHARM",
-   images: [ "https://media.thejewellershop.com/images/products/1000/DE0172_01.jpg",
+   images: [ "https://g6.sunlight.net/media/i/400/91/products/dffb3b7d77debcabe6441bb00995084af00535c6.jpg",
    "https://media.thejewellershop.com/images/products/1000/DE0172_02.jpg",
    "https://media.thejewellershop.com/images/products/Staging1000/SE0574_01.jpg"],
 
